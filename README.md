@@ -28,10 +28,3 @@ Pastikan Flutter SDK sudah terpasang dan emulator atau perangkat fisik (smartpho
 ```bash
 flutter pub get
 flutter run
-
-### Langkah 2: Commit dan Push ke GitHub
-Setelah file disimpan, buka kembali terminal PowerShell Anda dan jalankan perintah-perintah ini secara berurutan untuk mengirim perubahan tersebut ke *branch* baru di GitHub:
-
-1. **Periksa apa saja yang diubah (Opsional):**
-   ```bash
-   git diff
